@@ -9,8 +9,11 @@ This repository contain supplementary materials for previous Melek for Member (M
 5. [Basic Statistic 2] 
 6. [Intro Machine Learning] 
 7. [Basic Library ML] <a href="https://www.linkedin.com/in/sbhamdani/"><b>Syahrul Bahar Hamdani</b>
+  
 8. [ML - Classification] by <a href="https://www.linkedin.com/in/mochammad-fatchur-rahman-a48137a8/"><b>Mochammad Fatchur Rahman</b>
+  
 9. [ML - Regression] by <a href="https://www.linkedin.com/in/sbhamdani/"><b>Syahrul Bahar Hamdani</b>
+  
 10. [ML - Clustering] by <a href="https://www.linkedin.com/in/patuanpt/"><b>Patuan Tampubolon</b>
 11. [Basic SQL] by <a href="https://www.linkedin.com/in/ditamallya/"><b>Dita Amallya</b>
 12. [Data Preprocessing] by <a href="https://www.linkedin.com/in/raymond-christopher/"><b>Raymond Christopher Sitorus</b>
