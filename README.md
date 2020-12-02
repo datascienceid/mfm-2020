@@ -1,7 +1,18 @@
 # mfm-2020
 This repository contain supplementary materials for previous Melek for Member (MFM) 2020 session 
 
-
+Linear Algebra 
+Basic Python 1 
+Basic Python 2
+Basic Statistic 1
+Basic Statistic 2
+Intro Machine Learning
+Basic Library ML
+ML - Classification
+ML - Regression
+ML - Clustering
+Data Preprocessing
+Data Visualization by <a href="https://www.linkedin.com/in/juan-kanggrawan-78ab755a/"><b>Juan Kanggrawan</b>
 
 ---
 # Contributors
@@ -15,6 +26,6 @@ This repository contain supplementary materials for previous Melek for Member (M
     <td align="center"><a href="https://www.linkedin.com/in/muhammad-aziz-rahman-a026a7165/"><img src="https://media-exp1.licdn.com/dms/image/C5603AQGa0qpreTzlBw/profile-displayphoto-shrink_200_200/0?e=1611792000&v=beta&t=82JzZsS1fTxpfXhrnKOSZsBLRG_uThcTj57T-2jCqZU" width=120px;alt=""/><br /><sub><b>Muhammad Aziz Rahman
 </b></sub></a><br /><a title="moderator"></td>
     <td align="center"><a href="https://github.com/93kryptonian"><img src="https://avatars1.githubusercontent.com/u/57470211?s=400&u=4e4962363ddedc684f51904d07325b2d1b67a551&v=4" width=120px;alt=""/><br /><sub><b>Kal
-</b></sub></a><br /><a title="moderator"></td>
+</b></sub></a><br /><a title="moderator and design"></td>
   </tr>
 </table>
